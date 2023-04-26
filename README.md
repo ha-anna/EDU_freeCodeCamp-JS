@@ -20,11 +20,11 @@ All project that I've completed and that are part of the FreeCodeCamp's JavaScri
 
 ### Links
 
-1. [Palindrome checker](https://github.com/its-haanna/EDU_freeCodeCamp-JS/blob/main/palindrome-checker.js) <br>
-2. [Roman Numeral Converter](https://github.com/its-haanna/EDU_freeCodeCamp-JS/blob/main/roman_numeral_converter.js) <br>
-3. [Caesars Cipher](https://github.com/its-haanna/EDU_freeCodeCamp-JS/blob/main/caesars_cipher.js) <br>
-4. [Telephone Number Validator](https://github.com/its-haanna/EDU_freeCodeCamp-JS/blob/main/telephone_number_validator.js) <br>
-5. [Cash Register](https://github.com/its-haanna/EDU_freeCodeCamp-JS/blob/main/cash_register.js) <br>
+1. [Palindrome checker](https://github.com/ha-anna/EDU_freeCodeCamp-JS/blob/main/palindrome-checker.js) <br>
+2. [Roman Numeral Converter](https://github.com/ha-anna/EDU_freeCodeCamp-JS/blob/main/roman_numeral_converter.js) <br>
+3. [Caesars Cipher](https://github.com/ha-anna/EDU_freeCodeCamp-JS/blob/main/caesars_cipher.js) <br>
+4. [Telephone Number Validator](https://github.com/ha-anna/EDU_freeCodeCamp-JS/blob/main/telephone_number_validator.js) <br>
+5. [Cash Register](https://github.com/ha-anna/EDU_freeCodeCamp-JS/blob/main/cash_register.js) <br>
 
 ## Explanation
 
